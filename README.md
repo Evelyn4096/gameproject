@@ -1,14 +1,14 @@
-# Brew Time ☕  
+# Gameproject ☕  
 ### 2D Drink-Making Simulation Game (Unity)
 
-**Brew Time** is a 2D drink-making simulation game developed in **Unity (C#)**.  
+**Gameproject** is a 2D drink-making simulation game developed in **Unity (C#)**.  
 The project focuses on **interactive UI systems**, **event-driven gameplay logic**, and **data-driven order validation**, rather than graphics or narrative design.
 
 Players fulfill dynamically generated drink orders by dragging ingredients across multiple stations under time constraints, progressing through different gameplay states such as active play, level-up, and failure screens.
 
 ---
 
-## 🎮 Gameplay Overview
+## 🎮 Gameproject Overview
 
 - Orders are generated dynamically based on predefined recipes
 - Players assemble drinks by:
@@ -70,6 +70,3 @@ Players fulfill dynamically generated drink orders by dragging ingredients acros
 ├── Demo   
 ├── README.md
 ```
-## 📷 Demo
-### Gameplay
-![Gameplay](Demo\BrewTime.mp4)
